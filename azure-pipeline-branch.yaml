@@ -14,7 +14,7 @@ resources:
     type: github
     ref: 'refs/heads/$(branch_name)'
     name: toddwalstad-eaton/dynamic-checkout-repo2
-    endpoint: 'thomast1906'
+    endpoint: 'GitHub - toddwalstad-eaton'
 
 stages:
   - stage: stage1
