@@ -2,7 +2,7 @@ parameters:
   - name: branch
     displayName: branch
     type: string
-    default: 'testbranch'
+    default: 'main'
 
 variables:
   - name: branch_name
